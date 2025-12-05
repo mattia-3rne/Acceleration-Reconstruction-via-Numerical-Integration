@@ -54,6 +54,6 @@ Since this involves integrating time-series data, we track the kinematic state e
 ## 📂 Project Structure
 
 * `acceleration_data.csv`: The raw data exported from the Phyphox app.
-* `requirements.txt`: Python package dependencies.
 * `main.ipynb`: The main analysis notebook.
+* `requirements.txt`: Python package dependencies.
 * `README.md`: Project documentation.
